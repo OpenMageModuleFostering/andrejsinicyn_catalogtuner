@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package>
+    <name>AndrejSinicyn_CatalogTuner</name>
+    <version>1.0.0</version>
+    <stability>stable</stability>
+    <license uri="http://opensource.org/licenses/osl-3.0.php">OSL v3.0</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>Catalog tuning</summary>
+    <description>Catalog tuning</description>
+    <notes>Catalog tuning</notes>
+    <authors><author><name>Andrej Sinicyn</name><user>rarog</user><email>rarogit@gmail.com</email></author></authors>
+    <date>2014-05-07</date>
+    <time>06:57:52</time>
+    <contents><target name="magecommunity"><dir name="AndrejSinicyn"><dir name="CatalogTuner"><dir name="Helper"><file name="Data.php" hash="fb1b3446229b084faa896a737869f4c4"/></dir><dir name="Model"><file name="Observer.php" hash="bb198ab72894857d02e188f4f93873ee"/></dir><dir name="etc"><file name="config.xml" hash="4f9a7d3b14e3f0366813190e9b948425"/><file name="system.xml" hash="fb471ef01829aafb65d49d1aa9f36e63"/></dir></dir></dir></target><target name="magelocale"><dir name="de_DE"><file name="AndrejSinicyn_CatalogTuner.csv" hash="e486532c4c6b767b22a66c09bf6c512d"/></dir><dir name="en_EN"><file name="AndrejSinicyn_CatalogTuner.csv" hash="cf62e7aac0cb93669b0a2769dc6aa90d"/></dir></target><target name="mageetc"><dir name="modules"><file name="AndrejSinicyn_CatalogTuner.xml" hash="a3d9f57c3aafabe3cc31f9df2069b7d2"/></dir></target></contents>
+    <compatible/>
+    <dependencies><required><php><min>5.2.0</min><max>6.0.0</max></php></required></dependencies>
+</package>
