@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/AndrejSinicyn_CatalogTuner",
+    "name": "openmage-module-fostering\/andrejsinicyn_catalogtuner",
     "type": "magento-module",
-    "license": "OSL-v3.0",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "Catalog tuning",
     "authors": [
