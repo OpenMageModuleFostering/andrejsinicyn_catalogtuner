@@ -1,16 +1,19 @@
 {
-    "name": "OpenMageModuleFostering/AndrejSinicyn_CatalogTuner",
+    "name": "OpenMageModuleFostering\/AndrejSinicyn_CatalogTuner",
     "type": "magento-module",
     "license": "OSL-v3.0",
     "homepage": "",
     "description": "Catalog tuning",
     "authors": [
-    {
-        "name": "Andrej Sinicyn",
-        "email": "rarogit@gmail.com"
-    }
-],
+        {
+            "name": "Andrej Sinicyn",
+            "email": "rarogit@gmail.com"
+        }
+    ],
     "suggest": {
-        "magento-hackathon/magento-composer-installer": "*"
-    }
+        "magento-hackathon\/magento-composer-installer": "*"
+    },
+    "keywords": [
+        "openmage-module"
+    ]
 }
